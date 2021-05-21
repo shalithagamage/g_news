@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">G News</string>
+    <string name="search">Search</string>
+    <string name="more_details">More details :</string>
+    <string name="by_shalitha">by shalitha</string>
+    <string name="g_news">G NEWS</string>
+    <string name="source">Source</string>
+    <string name="date">Date</string>
+    <string name="title">TITLE</string>
+    <string name="content">Content</string>
+</resources>
